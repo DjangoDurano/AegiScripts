@@ -1,4 +1,4 @@
-# Set Style Manual
+# Instant Style Manual
 
 ### Overview
 
